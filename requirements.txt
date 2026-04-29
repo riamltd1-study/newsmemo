@@ -1,6 +1,6 @@
+# 웹 화면을 만드는 도구
 streamlit
-google-generativeai
-duckduckgo-search
+# 최신 Google Gemini AI 연결 도구 (새 버전)
+google-genai
+# 데이터 정리 및 CSV 저장 도구
 pandas
-requests
-beautifulsoup4
